@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 21,2017
 
 ### Student Name:  
-(First and Last Name)
+Jtierra Jones 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using Jquery to add javascript to my page 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jj16e.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use jquery in my code and what it is.
+2. Learnign how to specify event handlers.
+3. LEarnr how jquery uses your exsisting code as a framework. 
 
